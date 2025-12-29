@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "よるおきてあさねむる",
+  "base_artist": "映秀。",
+  "createdAt": "2025-12-29T13:26:11.478285Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "よるおきてあさねむる",
+      "artist": "映秀。",
+      "has_synced": false,
+      "path": "select/pl_01_よるおきてあさねむる_映秀。.txt"
+    }
+  ]
+}
